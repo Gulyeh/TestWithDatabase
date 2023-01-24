@@ -1,0 +1,16 @@
+global using Aquality.Selenium.Browsers;
+global using Aquality.Selenium.Core.Configurations;
+global using Aquality.Selenium.Elements.Interfaces;
+global using Aquality.Selenium.Forms;
+global using Microsoft.EntityFrameworkCore;
+global using NUnit.Framework;
+global using NUnit.Framework.Interfaces;
+global using OpenQA.Selenium;
+global using System.ComponentModel.DataAnnotations;
+global using Task5_0.Drivers;
+global using Task5_0.Entities;
+global using Task5_0.Helpers;
+global using Task5_0.Pages;
+global using Task5_0.Utils;
+global using TechTalk.SpecFlow;
+global using Task5_0.Models;
